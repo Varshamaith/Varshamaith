@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Varshamai T H  
 
 🎓 Electronics and Communication Engineering Student at Thiagarajar College of Engineering.   
-🚀 Passionate about designing efficient hardware architectures.
+Passionate about designing efficient hardware architectures.
 
 🛠️ Languages & Tools
 
