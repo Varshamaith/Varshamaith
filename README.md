@@ -8,8 +8,8 @@
 
 <p align="center">
 🎓 <b>Electronics and Communication Engineering Student</b> at <i>Thiagarajar College of Engineering</i><br>
-💡 Passionate about <b>VLSI Design</b>, <b>Digital Systems</b>.<br>
-🚀 I aspire to design and develop <b>next-generation semiconductor chips</b> that power the future.
+Passionate about <b>VLSI Design</b>, <b>Digital Systems</b>.<br>
+I aspire to design and develop <b>next-generation semiconductor chips</b> that power the future.
 </p>
 
 ---
