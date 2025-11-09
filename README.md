@@ -1,4 +1,8 @@
 <!-- Banner Image -->
+<p align="center">
+  <img src="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/sites/www.builtin.com/files/2022-01/hardware-semiconductor-companies.png" 
+       alt="Semiconductor Banner" width="50%">
+</p>
 
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
