@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40%">
+  <img src="https://www.synopsys.com/content/dam/synopsys/company/images/design-technology/vlsi-design-flow-og.jpg" width="70%">
 </p>
 
 
