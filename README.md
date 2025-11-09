@@ -14,7 +14,7 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
-### 🛠️ Programming Skills
+### Programming Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -22,7 +22,7 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
-### 🔧 Electronic Skills & EDA Tools
+###  Electronic Skills & EDA Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-007ACC?style=for-the-badge&logoColor=white" alt="Verilog"/>
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-FFB400?style=for-the-badge&logo=xilinx&logoColor=black" alt="Vivado"/>
@@ -33,7 +33,7 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varshamaith&show_icons=true&theme=blueberry" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshamaith&layout=compact&theme=blueberry" />
@@ -41,7 +41,7 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
-### 🔥 Contribution Streak
+### Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Varshamaith&theme=blueberry" />
 </p>
