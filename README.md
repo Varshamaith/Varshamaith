@@ -1,7 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://www.synopsys.com/content/dam/synopsys/company/images/design-technology/vlsi-design-flow-og.jpg" width="70%">
-</p>
 
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
