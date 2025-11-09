@@ -36,9 +36,13 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ### Relevant Coursework
 <p align="center">
-  • Analog Electronics &nbsp; • Digital Electronics &nbsp; • CMOS VLSI Circuits <br>
-  • Network Theory &nbsp; • Data Communication Networks
+  <img src="https://img.shields.io/badge/Analog%20Electronics-6A5ACD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Electronics-FF8C00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMOS%20VLSI%20Circuits-008080?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Theory-2E8B57?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Communication%20Networks-DC143C?style=for-the-badge&logoColor=white" />
 </p>
+
 
 ---
 
