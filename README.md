@@ -15,6 +15,12 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
+<p align="center">
+<b><i>“One day, I’ll design the chips that shape tomorrow’s technology.”</i></b>
+</p>
+
+---
+
 ### Programming Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
@@ -43,17 +49,10 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
   <img src="https://img.shields.io/badge/Data%20Communication%20Networks-DC143C?style=for-the-badge&logoColor=white" />
 </p>
 
-
 ---
 
 ### GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varshamaith&show_icons=true&theme=blueberry" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshamaith&layout=compact&theme=blueberry" />
-</p>
-
----
-
-<p align="center">
-<i>“One day, I’ll design the chips that shape tomorrow’s technology.”</i>
 </p>
