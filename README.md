@@ -23,13 +23,21 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
-###  Electronic Skills & EDA Tools
+### Electronic Skills & EDA Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-007ACC?style=for-the-badge&logoColor=white" alt="Verilog"/>
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-FFB400?style=for-the-badge&logo=xilinx&logoColor=black" alt="Vivado"/>
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-FF0000?style=for-the-badge&logoColor=white" alt="Cadence Virtuoso"/>
   <img src="https://img.shields.io/badge/Cadence%20Spectre-D00000?style=for-the-badge&logoColor=white" alt="Cadence Spectre"/>
   <img src="https://img.shields.io/badge/LTspice-800000?style=for-the-badge&logoColor=white" alt="LTspice"/>
+</p>
+
+---
+
+### Relevant Coursework
+<p align="center">
+  • Analog Electronics &nbsp; • Digital Electronics &nbsp; • CMOS VLSI Circuits <br>
+  • Network Theory &nbsp; • Data Communication Networks
 </p>
 
 ---
