@@ -42,13 +42,6 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
-### Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Varshamaith&theme=blueberry" />
-</p>
-
----
-
 <p align="center">
 <i>“One day, I’ll design the chips that shape tomorrow’s technology.”</i>
 </p>
