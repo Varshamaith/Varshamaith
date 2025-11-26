@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   <!-- Replace the link below with your uploaded GitHub raw image URL -->
-  <img src="BANNER_IMAGE_LINK_HERE" alt="Electronics Banner" width="100%">
+  <img src="https://github.com/Varshamaith/Varshamaith/blob/ab60c2e568794e7053375776ad623329b26a93ea/asset_image.png" alt="Electronics Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
@@ -57,20 +57,17 @@ I am an Electronics and Communication Engineering student passionate about<br>
   <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/varshamai-harisiva-00a5022a0">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Varshamaith">
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
 
 </p>
+
