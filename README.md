@@ -5,9 +5,9 @@
 </p>
 
 
-<h1 align="center">Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
+<h1>Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
 
-<p align="center">
+<p>
 I am an Electronics and Communication Engineering student passionate about<br>
 <b>VLSI design, semiconductor devices, digital systems, and EDA tools.</b>
 </p>
@@ -35,7 +35,7 @@ I am an Electronics and Communication Engineering student passionate about<br>
 
 ## GitHub Analytics
 
-<p align="center">
+<p>
 
   <img src="https://komarev.com/ghpvc/?username=Varshamaith&label=Profile%20Views&color=blue&style=flat" height="28"/>
 
