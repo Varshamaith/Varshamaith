@@ -42,17 +42,14 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 ---
 
 
+## GitHub Analytics
+
 <p align="center">
-  <!-- Top Languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshamaith&layout=compact&theme=blueberry" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varshamaith&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshamaith&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varshamaith&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varshamaith&theme=blueberry&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=Varshamaith&theme=blueberry&border_radius=10" alt="GitHub Streak" />
-</p>
