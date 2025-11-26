@@ -17,13 +17,13 @@ I am an Electronics and Communication Engineering student passionate about<br>
 
 ---
 
-## 🖥️ Programming Skills
+## Programming Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
 </p>
 
-## 🔧 Electronics Skills & EDA Tools
+## Electronics Skills & EDA Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-35495E?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-FCC624?style=for-the-badge&logo=xilinx&logoColor=black"/>
@@ -34,7 +34,7 @@ I am an Electronics and Communication Engineering student passionate about<br>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 </p>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
@@ -52,36 +52,23 @@ I am an Electronics and Communication Engineering student passionate about<br>
 
 ---
 
-## 🔗 Connect With Me
-
+## Connect With Me
 <p align="center">
 
-<a href="mailto:varshamai.th@gmail.com" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<a href="mailto:varshamai.th@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
 </a>
-<br>
-<b>Email:</b> <a href="mailto:varshamai.th@gmail.com">varshamai.th@gmail.com</a>
 
-<br><br>
-
-<p align="center">
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/varshamai-harisiva-00a5022a0">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
-<br>
-<b>LinkedIn:</b>  
-<a href="https://www.linkedin.com/in/varshamai-harisiva-00a5022a0">www.linkedin.com/in/varshamai-harisiva-00a5022a0</a>
 
-<br><br>
-
-<p align="center">
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Varshamaith">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
-<br>
-<b>GitHub:</b>  
-<a href="https://github.com/Varshamaith">github.com/Varshamaith</a>
 
 </p>
