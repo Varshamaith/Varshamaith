@@ -8,7 +8,7 @@
 
 <p align="center">
 I am an Electronics and Communication Engineering student passionate about<br>
-<b>VLSI design, semiconductor devices, digital systems, chip layout, and EDA tools.</b>
+<b>VLSI design, semiconductor devices, digital systems, and EDA tools.</b>
 </p>
 
 <p align="center">
