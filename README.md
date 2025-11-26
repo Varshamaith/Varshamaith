@@ -5,7 +5,7 @@
 </p>
 
 
-<h1>Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
+<h1>Hi, I'm <span style="color:#007ACC;">Varshamai</span></h1>
 
 <p>
 I am an Electronics and Communication Engineering student passionate about<br>
