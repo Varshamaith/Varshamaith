@@ -1,8 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/Varshamaith/Varshamaith/blob/ab60c2e568794e7053375776ad623329b26a93ea/asset_image.png" 
-       alt="Electronics Banner" width="100%" height="250px">
+       alt="Electronics Banner" width="100%" height="180px" style="border-radius: 10px;">
 </p>
+
 
 <h1 align="center">Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
 
