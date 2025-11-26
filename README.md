@@ -7,7 +7,6 @@
 <h1 align="center">Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
 
 <p align="center">
-<b>Electronics Enthusiast • VLSI Learner • Future Chip Designer</b><br><br>
 I am an Electronics and Communication Engineering student passionate about<br>
 <b>VLSI design, semiconductor devices, digital systems, chip layout, and EDA tools.</b>
 </p>
