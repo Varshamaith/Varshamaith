@@ -53,8 +53,7 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ### GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varshamaith&show_icons=true&theme=blueberry" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshamaith&layout=compact&theme=blueberry" />
 </p>
 
-any link expired in this read me?
+
