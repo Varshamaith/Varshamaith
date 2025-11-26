@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   <!-- Replace the link below with your uploaded GitHub raw image URL -->
-  <img src="https://github.com/Varshamaith/Varshamaith/blob/ab60c2e568794e7053375776ad623329b26a93ea/asset_image.png" alt="Electronics Banner" width="100%">
+  <img src="https://github.com/Varshamaith/Varshamaith/blob/ab60c2e568794e7053375776ad623329b26a93ea/asset_image.png" alt="Electronics Banner" width="75%">
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
