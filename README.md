@@ -65,6 +65,8 @@ I am an Electronics and Communication Engineering student passionate about<br>
 
 <br><br>
 
+<p align="center">
+
 <a href="https://www.linkedin.com/in/varshamai-harisiva-00a5022a0">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -73,6 +75,8 @@ I am an Electronics and Communication Engineering student passionate about<br>
 <a href="https://www.linkedin.com/in/varshamai-harisiva-00a5022a0">www.linkedin.com/in/varshamai-harisiva-00a5022a0</a>
 
 <br><br>
+
+<p align="center">
 
 <a href="https://github.com/Varshamaith">
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
