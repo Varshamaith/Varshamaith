@@ -59,11 +59,15 @@ I am an Electronics and Communication Engineering student passionate about<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="center">
+
 <a href="https://www.linkedin.com/in/varshamai-harisiva-00a5022a0">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align="center">
 
 <a href="https://github.com/Varshamaith">
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
