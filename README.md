@@ -4,7 +4,6 @@
        alt="Semiconductor Banner" width="50%">
 </p>
 
-
 <h1 align="center">👋 Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
 
 <p align="center">
@@ -21,7 +20,8 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
-### Programming Skills
+## Programming Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
@@ -29,7 +29,8 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
-### Electronic Skills & EDA Tools
+## Electronics Skills & EDA Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Verilog-007ACC?style=for-the-badge&logoColor=white" alt="Verilog"/>
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-FFB400?style=for-the-badge&logo=xilinx&logoColor=black" alt="Vivado"/>
@@ -40,20 +41,18 @@ I aspire to design and develop <b>next-generation semiconductor chips</b> that s
 
 ---
 
-### Relevant Coursework
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Analog%20Electronics-6A5ACD?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital%20Electronics-FF8C00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMOS%20VLSI%20Circuits-008080?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Theory-2E8B57?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Communication%20Networks-DC143C?style=for-the-badge&logoColor=white" />
+  <!-- Top Languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshamaith&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
----
-
-### GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshamaith&layout=compact&theme=blueberry" />
+  <!-- GitHub Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varshamaith&show_icons=true&theme=blueberry" alt="GitHub Stats" />
 </p>
 
-
+<p align="center">
+  <!-- Streak Stats -->
+  <img width="48%" src="https://streak-stats.demolab.com?user=Varshamaith&theme=blueberry&border_radius=10" alt="GitHub Streak" />
+</p>
