@@ -30,8 +30,6 @@ I am an Electronics and Communication Engineering student passionate about<br>
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-E4002B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cadence%20Spectre-AA0000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LTspice-990000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KiCAD-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 </p>
 
 ## GitHub Analytics
