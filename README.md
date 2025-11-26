@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <!-- Replace the link below with your uploaded GitHub raw image URL -->
-  <img src="https://github.com/Varshamaith/Varshamaith/blob/ab60c2e568794e7053375776ad623329b26a93ea/asset_image.png" alt="Electronics Banner" width="75%">
+  <img src="https://github.com/Varshamaith/Varshamaith/blob/ab60c2e568794e7053375776ad623329b26a93ea/asset_image.png" 
+       alt="Electronics Banner" width="75%">
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#007ACC;">Varshamai T H</span></h1>
@@ -36,42 +36,30 @@ I am an Electronics and Communication Engineering student passionate about<br>
 
 <p align="center">
 
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Varshamaith&label=Profile%20Views&color=blue&style=flat" height="28"/>
 
   <br><br>
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varshamaith&show_icons=true&theme=blueberry&hide_border=true"/>
-
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshamaith&layout=compact&theme=blueberry&hide_border=true"/>
-
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varshamaith&theme=blueberry&hide_border=true"/>
+
 </p>
 
 ---
 
 ## Connect With Me
-<p align="center">
-
-<a href="mailto:varshamai.th@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/varshamai-harisiva-00a5022a0">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p align="center">
-
-<a href="https://github.com/Varshamaith">
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-</a>
-
+  <a href="mailto:varshamai.th@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/varshamai-harisiva-00a5022a0">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Varshamaith">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  </a>
 </p>
-
