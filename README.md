@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/Varshamaith/Varshamaith/blob/ab60c2e568794e7053375776ad623329b26a93ea/asset_image.png" 
-       alt="Electronics Banner" width="75%" height="150px">
+       alt="Electronics Banner" width="75%" height="300px">
 </p>
 
 
