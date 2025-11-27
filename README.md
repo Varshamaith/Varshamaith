@@ -4,16 +4,16 @@
        alt="Electronics Banner" width="75%" height="300px">
 </p>
 
-
 <h1>Hi, I'm <span style="color:#007ACC;">Varshamai</span></h1>
 
 <p>
-I am an Electronics and Communication Engineering student passionate about<br>
-<b>VLSI design, semiconductor devices, digital systems, and EDA tools.</b>
+I am an Electronics and Communication Engineering student at Thiagarajar College of Enginneering.
 </p>
 
-<p align="center">
-<b><i>“One day I will design the chips that shape tomorrow's technology.”</i></b>
+<p>
+🔍 Currently exploring the VLSI domain<br>
+⚡ Excited to engineer silicon chips that push technology forward<br>
+❤️ Interested in anything and everything related to electronics
 </p>
 
 ---
