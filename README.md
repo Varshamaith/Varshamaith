@@ -13,7 +13,7 @@ I am an Electronics and Communication Engineering student at Thiagarajar College
 <p>
 🔍 Currently exploring the VLSI domain<br>
 ⚡ Excited to engineer silicon chips that push technology forward<br>
-❤️ Interested in anything and everything related to electronics
+❤️ Currently interested in anything and everything related to electronics
 </p>
 
 ---
