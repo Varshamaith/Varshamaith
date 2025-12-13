@@ -33,19 +33,6 @@ I am an Electronics and Communication Engineering student at Thiagarajar College
   <img src="https://img.shields.io/badge/LTspice-990000?style=for-the-badge&logoColor=white"/>
 </p>
 
-## GitHub Analytics
-
-<p>
-
-  <img src="https://komarev.com/ghpvc/?username=Varshamaith&label=Profile%20Views&color=blue&style=flat" height="28"/>
-
-  <br><br>
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varshamaith&show_icons=true&theme=blueberry&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varshamaith&theme=blueberry&hide_border=true"/>
-
-</p>
-
 ---
 
 ## Connect With Me
