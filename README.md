@@ -42,7 +42,6 @@ I am an Electronics and Communication Engineering student at Thiagarajar College
   <br><br>
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varshamaith&show_icons=true&theme=blueberry&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshamaith&layout=compact&theme=blueberry&hide_border=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varshamaith&theme=blueberry&hide_border=true"/>
 
 </p>
